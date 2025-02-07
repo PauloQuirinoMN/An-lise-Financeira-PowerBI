@@ -1,5 +1,11 @@
-# Anásile-Financeira-PowerBI
-Projeto de análise financeira desenvolvido no Power BI para visualizar padrões de receitas e despesas.
+# Análise-Financeira-PowerBI
+
+  ## Análise financeira desenvolvido no Power BI para visualizar padrões de receitas e despesas.
+
+<p align="center">
+  <img src="relatório_powerbi.jpeg" width="500">
+</p>
+
 
 
 [Link do relatório](https://app.powerbi.com/view?r=eyJrIjoiMThhNDhjMmYtNzQyZi00OGU5LTk1ZTktM2Y3ZDg5MDAzODE0IiwidCI6IjY1ODQ3OGU5LTQxYjItNGZkNi1hNDkxLTlmYWNkZTBhNzVkNiJ9)
@@ -17,9 +23,9 @@ O relatório financeiro desenvolvido no Power BI permite uma análise abrangente
 
 ✅ Detalhamento de Transações: Tabela com descrição, quantidade e soma dos valores, permitindo uma visão granular das despesas e receitas.
 
-##Aplicações Profissionais:
+## Aplicações Profissionais:
 
 Identificação de padrões de consumo e possíveis oportunidades de economia.
-Monitoramento de formas de pagamento mais utilizadas e sua relação com o fluxo de financeiro.
+Monitoramento de formas de pagamento mais utilizadas e sua relação com o fluxo financeiro.
 Planejamento financeiro baseado na análise de categorias com maiores gastos.
-Facilitação da tomada de decisão baseada em dados financeiros estruturados.
+Facilitação da tomada de decisão baseada em dados analisados.
